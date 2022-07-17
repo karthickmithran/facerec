@@ -1,0 +1,14 @@
+body{
+    color: rgb(255, 0, 255);
+    background-color: aqua;
+}
+
+.heading{
+    width:80%;
+    font-size: 40;
+    background-color: rgb(18, 247, 10);
+}
+
+.name_of_objects{
+    color: rgb(255, 30, 0);
+}
